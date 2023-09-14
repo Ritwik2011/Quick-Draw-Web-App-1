@@ -1,0 +1,16 @@
+
+body {
+    background-color: #f0f0f0;
+  }
+  
+ 
+  #score, #timer {
+    font-size: 24px; 
+    margin-left: 20px; 
+  }
+  
+ 
+  #sketchToBeDrawn {
+    color: #ff5733; 
+  }
+  
